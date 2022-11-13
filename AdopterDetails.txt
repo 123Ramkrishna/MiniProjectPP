@@ -1,0 +1,15 @@
+Name	                 Date	     Time	  Animal
+Kushal Malhotra	       11-11-2022	04:13pm	  Monkey
+Ramkrishna Patidar	   12-11-2022	01:20pm	  Dog
+Pranav Sharma	       13-11-2022	10:05am	  Cow
+Siddharth Kheroniya	   14-11-2022	11:25am	  Goat
+Anuj Pardhi	           05-11-2022	07:34pm	  Horse
+Krish Verma  		 12/11/2022 	 01:20pm   Dog
+Sumit Patidar 		 12/11/2022 	 01:20pm   Bull
+Harshal Patidar 		 12/11/2022 	 01:20pm   Cow
+
+Ayush Mishra 		 10/04/2023 	 02:45pm   Dog
+Shivam Sharma 		 10/04/2023 	 02:45pm   Donkey
+
+Sudhanshu Bhakt 	 	 10/04/2023 	 02:45pm   Puppy
+Krish Verma 	 	 10/04/2023 	 02:45pm   Dog

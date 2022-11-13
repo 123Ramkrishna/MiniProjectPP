@@ -1,0 +1,18 @@
+S.No  Name       Surname    Date       Time     Amount(Rs)      
+
+ 
+1.    Ujjwal     Jain      12/12/2022  2:30pm    1000
+
+2.    Ansh       Jain      13/12/2022  5:14pm    2000
+
+3.    Raj        Gupta     14/12/2022  6:00am    3000
+
+4.    Somesh     Pandey    15/12/2022  10:00am   4000
+
+5.    Dhruv      Patidar   16/12/2022  11:05pm   5000
+
+6.    Rohit      Sharma    17/12/2022  12.55pm   1000000
+
+7.    Virat      Kohli     18/12/2022  01:57pm   2000000
+
+8.    MS         Dhoni     29/12/2022  02:05pm   5000000

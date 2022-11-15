@@ -5,7 +5,9 @@ at which place animal is harmed,so that the medical team is arrivied at that pla
 NGO also has shelter.If any animal is injured seriously then the team bring
 them to Shelter.
 */
+
 #include <stdio.h>
+
     // Declaration of Information_about_NGO function.
     void
     Information_about_NGO();
@@ -47,7 +49,9 @@ them to Shelter.
     Report();
 
 int main()
-{ 
+{   
+    //Options for user.
+
     printf("Select : 1. Information about NGO.\n\t 2. Contact details of NGO.\n\t");
     
     printf(" 3. Which Animal is suffered.\n\t 4. Place where Animal is harmed.\n\t");
@@ -69,7 +73,7 @@ int main()
 
     char    Animal_Adopted[20]; // Declaration of Animal_Adopted string.
 
-    char    name[100];          // Declaration of name string.
+    char    name[20];          // Declaration of name string.
 
 /*
 Switch case is used to implement the selected option.
@@ -91,7 +95,7 @@ Switch case is used to implement the selected option.
 
         case 3 : 
                 printf("Please Enter which animal is suffered : ");
-                gets(Animal);    
+                fgets(Animal,20,stdin);    
                 
                 Animal_Type(Animal);   // calling  of the Animal_Type function.
                 
@@ -116,11 +120,11 @@ Switch case is used to implement the selected option.
 
                 Animal_Adoption(name); //calling of the Animal_Adoption function
 
-                FILE     *fh;             // file pointer to point the character of the AdopterDetails.txt file.
+                FILE     *fh;          // file pointer to point the character of the AdopterDetails.txt file.
                 
                 fh = fopen("AdopterDetails.txt","a");
                 
-                fprintf(fh,"%s \t \t %s \t %s   %s" ,name,"10/04/2023","02:45pm",Animal_Adopted);
+                fprintf(fh,"%s \t\t %s \t  %s  %s" ,name,"10/04/2022","2:45pm",Animal_Adopted);
                 
                 fclose(fh);
 

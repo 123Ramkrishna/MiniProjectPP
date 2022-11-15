@@ -6,10 +6,18 @@ Siddharth Kheroniya	   14-11-2022	11:25am	  Goat
 Anuj Pardhi	           05-11-2022	07:34pm	  Horse
 Krish Verma  		 12/11/2022 	 01:20pm   Dog
 Sumit Patidar 		 12/11/2022 	 01:20pm   Bull
-Harshal Patidar 		 12/11/2022 	 01:20pm   Cow
+Harshal Patidar 	 12/11/2022 	 01:20pm   Cow
 
 Ayush Mishra 		 10/04/2023 	 02:45pm   Dog
 Shivam Sharma 		 10/04/2023 	 02:45pm   Donkey
 
-Sudhanshu Bhakt 	 	 10/04/2023 	 02:45pm   Puppy
+Sudhanshu Bhakt 	 10/04/2023 	 02:45pm   Puppy
 Krish Verma 	 	 10/04/2023 	 02:45pm   Dog
+
+Prashuk Jain 	 	 10/04/2023 	 02:45pm   Horse
+Ayush Anand 	 	 10/04/2023 	 02:45pm   Cat
+Raj Gupta 	 	    10/04/2023 	     02:45pm   Dog
+
+Ram Patidar			 10/04/2022 	  2:45pm  Cow
+
+Ramkrishna Patidar 		 10/04/2022 	  2:45pm  cow

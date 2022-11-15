@@ -16,3 +16,5 @@ S.No  Name       Surname    Date       Time     Amount(Rs)
 7.    Virat      Kohli     18/12/2022  01:57pm   2000000
 
 8.    MS         Dhoni     29/12/2022  02:05pm   5000000
+
+9.  Sachin     Tendulkar   30/01/2022  02:07pm   5000000

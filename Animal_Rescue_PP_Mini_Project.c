@@ -52,6 +52,8 @@ int main()
 {   
     //Options for user.
 
+    printf("\n\n");
+
     printf("Select : 1. Information about NGO.\n\t 2. Contact details of NGO.\n\t");
     
     printf(" 3. Which Animal is suffered.\n\t 4. Place where Animal is harmed.\n\t");
@@ -62,7 +64,10 @@ int main()
     
     printf(" 9. Transaction.\n\t 10. Report.\n");
 
+    printf(" \t 11.Please Enter eleven for exit program.\n");
+
     short int  select_options;    // Declaration of select_options to select above options.
+    printf("\n");
     printf("Select options from above: ");
     scanf("%hu",&select_options);
     
@@ -81,6 +86,7 @@ Switch case is used to implement the selected option.
    switch(select_options)
     {
         case 1 : 
+                 printf("\n");
                  Information_about_NGO(); // calling of the Information_about_NGO function.
                  printf("\n");
                  
@@ -160,12 +166,15 @@ Switch case is used to implement the selected option.
               Report();       // calling Report function.
               
               break;
-
+        
+        case 11:
+              return 0;
+       
         default :
              printf("Please choose valid option.");
    
     }   
-   
+    main();
     return 0;
 }
 
